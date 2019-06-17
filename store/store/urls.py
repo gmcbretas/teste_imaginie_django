@@ -24,7 +24,7 @@ from rest_framework.authtoken.views import obtain_auth_token
 
 schema_view = get_schema_view(
     openapi.Info(
-        title="Imagine Test API",
+        title="Imaginie Test API",
         default_version='v1',
     ),
     public=True,
